@@ -1,0 +1,27 @@
+<mockup version="1.0" skin="sketch" measuredW="1616" measuredH="401" mockupW="1599" mockupH="392">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="17" y="10" w="789" h="391" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>RSVP%20to%20Sam%0Ahttp%3A//www.rsvp2sam.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="827" y="9" w="789" h="391" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>RSVP%20to%20Sam%0Ahttp%3A//www.rsvp2sam.com/invite%3Fid%3D%7BGUID%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="915" y="91" w="538" h="38" measuredW="538" measuredH="37" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Eric%20Anderson%20and%20Raquel%20Scharf-Anderson</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="915" y="135" w="466" h="222" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>24</size>
+        <text>Invite%20you%20to%20join%20them%20in%20the%20%0Aas%20their%20son%20%0A%7Bhebrew%20-%20shmuel%20eliahu%7D%0ASamuel%20Elijah%0A%20is%20called%20to%20the%20torah%0A%20%0AA%20_second_%20%5Brow%5D%20of%20*text*.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
